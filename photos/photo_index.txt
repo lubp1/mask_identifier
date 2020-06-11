@@ -1,8 +1,8 @@
-lateral_mask.png				one person. 90 degrees w/ mask. background: blue
+lateral_mask.png			one person. 90 degrees w/ mask. background: blue
 lateral_without_mask.png		one person. 90 degrees no mask. background: blue
 oblique_without_mask.png		one person. 45 degrees no mask. background: blue
-oblique_mask.png				one person. 45 degrees w/ mask. background: blue
-full_body_bricks_no_mask.png	one person. frontal 2 people. no masks. background: bricks
+oblique_mask.png			one person. 45 degrees w/ mask. background: blue
+full_body_bricks_no_mask.png		one person. frontal 2 people. no masks. background: bricks
 full_body_bricks_one_mask		frontal 2 people. one person w/ mask. background: bricks
 full_body_bricks_two_mask		frontal 2 people w/ masks. background: bricks
 overlapping_two_masks			2 people overlapping w/ masks. background: blue
@@ -11,3 +11,7 @@ overlapping_one_mask_2			2 people overlapping. the person behind w/ mask. 50 % c
 overlapping_one_mask_3			2 people overlapping. the person behind w/ mask. 25 % cover. background: blue
 overlapping_one_mask_4			2 people overlapping. the person behind w/ mask. background: blue
 full_body_blue_no_mask			frontal. full body. 2 people no masks.
+individual_one_mask			frontal. full body. one person. with mask
+individual_close			frontal. close. one person. no mask.
+individual_one_close_mask		frontal. close. one person. w/ mask.
+individual_one_close_mask_2		frontal. close. one person. w/ mask.
